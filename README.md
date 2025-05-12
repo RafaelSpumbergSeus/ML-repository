@@ -9,7 +9,7 @@ Bem-vindo ao Machine Learning Hub! Este repositório centraliza projetos, experi
 🤖 Desenvolver modelos preditivos aplicados a problemas reais
 
 🛠️ Tecnologias Utilizadas
-- Python (3.8+)
+- Python 
 - Jupyter Notebook
 - Pandas, NumPy, Scikit-learn
 - Matplotlib, Seaborn
